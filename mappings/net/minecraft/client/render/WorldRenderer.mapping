@@ -176,7 +176,7 @@ CLASS dka net/minecraft/client/render/WorldRenderer
 		ARG 8 z
 		ARG 10 velocityX
 		ARG 12 velocityY
-		ARG 14 velocityY
+		ARG 14 velocityZ
 	METHOD a updateBlockEntities (Ljava/util/Collection;Ljava/util/Collection;)V
 		ARG 1 removed
 		ARG 2 added
