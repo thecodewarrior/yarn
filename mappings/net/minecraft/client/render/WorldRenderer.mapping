@@ -144,7 +144,7 @@ CLASS dju net/minecraft/client/render/WorldRenderer
 		ARG 8 z
 		ARG 10 velocityX
 		ARG 12 velocityY
-		ARG 14 velocityY
+		ARG 14 velocityZ
 	METHOD a getRandomParticleSpawnChance (Z)Lcux;
 		ARG 1 canSpawnOnMinimal
 	METHOD b drawEntityOutlinesFramebuffer ()V
